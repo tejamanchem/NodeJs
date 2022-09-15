@@ -31,8 +31,6 @@ viewInBrowser()
 
 updateFile('./','functions.txt','this is update call function')
 
-
-
 writeile('./createdFileFolder/',`createdFile.txt`,readedFile)
 
 
